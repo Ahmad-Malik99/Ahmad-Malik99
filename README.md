@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Ahmad
 
-<!--
-**Ahmad-Malik99/Ahmad-Malik99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Developer | Cybersecurity Enthusiast | Business Development
 
-Here are some ideas to get you started:
+🎓 IT Student at UMT Lahore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- SQL
+- Git & GitHub
+- HTML & CSS
+- Machine Learning
+- Web Scraping
+- Linux
+
+## 📂 Featured Projects
+
+### 🛡️ Phishing Guard
+Machine learning based phishing website detection system built with Python.
+
+🔗 https://github.com/Ahmad-Malik99/Phishing-Guard
+
+## 📫 Connect With Me
+
+- LinkedIn: (Add your LinkedIn URL)
+- Email: youremail@example.com
