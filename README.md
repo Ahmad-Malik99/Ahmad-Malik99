@@ -23,5 +23,5 @@ Machine learning based phishing website detection system built with Python.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn URL)
-- Email: youremail@example.com
+- LinkedIn:https://www.linkedin.com/in/muhammad-ahmad-999032362/
+- Email: ahmadawanammy80@gmail.com
